@@ -1,4 +1,4 @@
-## Hi there 👋 My Name is Motunrayo
+ ## Hi there 👋 My Name is Motunrayo
 
  |Junior Data Analyst| Empowering business with insights from data
 
@@ -35,7 +35,7 @@ I hold a degree in Business Education and My academic background and growing tec
  
 ###### 📫 Let’s Connect:
 
-    * (LinkedIn) [www.linkedin.com/in/motunrayo-moye-3a9014354]
-    * 📧 (Email) [motunrayoafewunmi4@gmail.com]
+    * (LinkedIn)[www.linkedin.com/in/motunrayo-moye-3a9014354]
+    * 📧 (Email)[motunrayoadewunmi4@gmail.com]
 
 -->
