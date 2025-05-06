@@ -20,6 +20,7 @@ I hold a degree in Business Education and My academic background and growing tec
 - Data Exploration and Insight Generation
 - Basic SQL for querying structured datasets
 
+
   ###### Project 💼
 
 -->
