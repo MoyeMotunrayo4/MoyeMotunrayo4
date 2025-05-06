@@ -20,6 +20,5 @@ I hold a degree in Business Education and My academic background and growing tec
 - Dashboard Creation & Storytelling
 - Data Exploration and Insight Generation
 - Basic SQL for querying structured datasets
-Here are some ideas to get you started:
 
 -->
