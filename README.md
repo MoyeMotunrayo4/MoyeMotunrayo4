@@ -35,7 +35,7 @@ I hold a degree in Business Education and My academic background and growing tec
  
 ###### 📫 Let’s Connect:
 
-    * [LinkedIn](https://linkedin.com/in/motunrayo-moye)
+    * [LinkedIn](https://linkedin.com/in/www.linkedin.com/in/motunrayo-moye-3a9014354)
     *📧 [Email](mailto:motunrayoadewunmi4@gmail.com)
 
 -->
