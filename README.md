@@ -1,7 +1,4 @@
-## Hi there 👋
-
-<!--
-
+## Hi there 👋 My Name is Motunrayo
 
  |Junior Data Analyst| Empowering business with insights from data
 
